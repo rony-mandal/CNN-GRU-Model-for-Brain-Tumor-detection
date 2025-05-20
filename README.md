@@ -21,10 +21,8 @@ This project demonstrates a complete machine learning pipeline, including traini
 - scikit-learn (or TensorFlow/PyTorch depending on the notebook)
 - Matplotlib / Seaborn (for visualization)
 - Google Colab
-- 
-### 📁 Project Structure
-
-### 📁 Project Structure
+  
+## 📁 Project Structure
 
 ```text
 ML-Model-Pipeline/
