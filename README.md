@@ -17,9 +17,9 @@ This project demonstrates a complete machine learning pipeline, including traini
 ## 🛠️ Technologies Used
 
 - Python
-- NumPy, pandas
+- NumPy, Pandas
 - scikit-learn (or TensorFlow/PyTorch depending on the notebook)
-- Matplotlib / Seaborn (for visualization)
+- Matplotlib, Seaborn (for visualization)
 - Google Colab
   
 ## 📁 Project Structure
@@ -28,9 +28,7 @@ This project demonstrates a complete machine learning pipeline, including traini
 ML-Model-Pipeline/
 ├── training_model.ipynb        # Notebook for training the ML model
 ├── testing_model.ipynb         # Notebook for evaluating the model
-├── data/                       # Folder for input datasets
-├── models/                     # Folder for saved model(s)
-├── requirements.txt            # Python dependencies
+├── model                       # Saved model
 └── README.md                   # Project documentation
 ```
 
